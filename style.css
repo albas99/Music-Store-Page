@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header{
+    width: 100%;
+    height: 5vh;
+    /* background-color: blue; */
+    display: flex;
+    margin-right: 2rem;
+    /* padding: 10px 20px; */
+}
+
+#header h2{
+    font-family: american typewriter;
+    font-size: 2rem;
+    color: ;
+}
+
+.nav-bar{
+
+}
+
+.nav-list{
+    display: flex;
+}
+
+.nav-link{
+    padding: 0 1rem;
+}
